@@ -6,6 +6,12 @@ body {
 	background-color: #777;
 	text-align: center;
 	font-size: 18px
+	
+}
+
+nav, section, aside, footer {
+
+	color: #777;
 }
 
 #header1 {
@@ -13,7 +19,13 @@ body {
 	height: 90px;
 	width: 960px;
 	background-color: #ebebeb;
+	color: #777;
 
+}
+
+#header2 {
+
+	color: #ebebeb;
 }
 
 nav {
@@ -26,7 +38,7 @@ nav {
 
 #section {
 	
-	padding-top: 50px;
+	padding-top: 0px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	width: 495px;
@@ -41,26 +53,35 @@ p {
 	height: 50px;
 	margin: 10px auto;
 	background-color: #ebebeb;
+	color: #777;
+}
+
+#margin {
+
+	margin-top: 50px;
+	color: #777;
 }
 
 
 
 
 article {
-
+	
+	margin-top: 30px;
 	width: 465px;
 	height: 180px;
 	background-color: #777;
 	margin: 0 auto;
-	padding-left: 30px;
-	padding-right: 20px;
 	margin-bottom: 20px;
+	color: #ebebeb;
+	
+
 
 }
 
 aside {
 	
-	width: 380px;
+	width: 450px;
 	height: 270px;
 	background-color: #ebebeb;
 	margin-bottom: 10px;
